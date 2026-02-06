@@ -26,10 +26,12 @@ These examples are easy to understand and modify — perfect for learning and in
    git clone https://github.com/lakminda03/JS-CSS-Animations.git
    
 2. **Open any animation file**
+   
    👾Simply double‑click the .html file you want to view.
+   
    👾Alternatively, serve it with Live Server in VS Code for best experience.
 
-3. **Explore & tweak**
+4. **Explore & tweak**
    👾Edit CSS and JavaScript to see how animations change instantly — the best way to learn!
 
 ## 📌 Why Animations Matter
@@ -52,7 +54,9 @@ Consider adding @media (prefers‑reduced‑motion) styles for users who prefer 
 Want to add your own cool animation? Amazing! ✨
 
 1.Fork this repo
+
 2.Add your animation project (HTML/CSS/JS)
+
 3.Submit a pull request with a clear description
 
 Let’s build something beautiful together! 💪
