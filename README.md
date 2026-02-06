@@ -45,7 +45,7 @@ Overused animations can distract users. Use them to enhance clarity, not overwhe
 3. ♿ Respect motion preferences
 Consider adding @media (prefers‑reduced‑motion) styles for users who prefer minimal movement.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Want to add your own cool animation? Amazing! ✨
 
